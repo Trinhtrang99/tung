@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <!--    <string name="trang">trang</string>-->
+    <string name="nav_menu">trang</string>
+</resources>
